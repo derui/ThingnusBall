@@ -1,0 +1,11 @@
+* ThingnusBall
+This is a split keyboard having these features:
+
+- ZMK firmware
+- thin body
+  - bottom of case to keytop is less than *20mm*
+- Encoder and 25mm track ball
+  - You can manage behavior with ZMK
+- all wireless
+- able to use rechageable AA battery
+  - I use eneloop for this
