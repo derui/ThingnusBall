@@ -9,3 +9,10 @@ This is a split keyboard having these features:
 - all wireless
 - able to use rechageable AA battery
   - I use eneloop for this
+
+
+* LICENSE
+MIT
+
+** LISENCE note
+This keyboard uses Seeed Studio's XIAO nRF52480 kicad symbol and footprint. There are licensed under MIT that they written in [[https://wiki.seeedstudio.com/ja/License/][here]].
