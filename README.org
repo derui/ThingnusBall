@@ -2,14 +2,19 @@
 This is a split keyboard having these features:
 
 - ZMK firmware
+- 3D printed keyboard case & track ball case
+  - Track ball case can set on keyboard with magnets
 - thin body
   - bottom of case to keytop is less than *20mm*
+  - Fot this, suppoted socket is chok v2 only
 - Encoder and 25mm track ball
   - You can manage behavior with ZMK
 - all wireless
 - able to use rechageable AA battery
   - I use eneloop for this
 
+
+* Bill Of Materials
 
 * LICENSE
 MIT
