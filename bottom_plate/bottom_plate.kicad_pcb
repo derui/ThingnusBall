@@ -521,7 +521,7 @@
 		)
 		(fp_line
 			(start -9.85 0.05)
-			(end -2.4 0.050002)
+			(end -2.4 0.050003)
 			(stroke
 				(width 0.05)
 				(type default)
@@ -4971,7 +4971,7 @@
 		)
 		(fp_line
 			(start -9.85 0.05)
-			(end -2.4 0.050002)
+			(end -2.4 0.050003)
 			(stroke
 				(width 0.05)
 				(type default)
@@ -5278,7 +5278,7 @@
 		)
 		(fp_line
 			(start -9.85 0.05)
-			(end -2.4 0.050002)
+			(end -2.4 0.050003)
 			(stroke
 				(width 0.05)
 				(type default)
@@ -9421,7 +9421,7 @@
 		)
 		(fp_line
 			(start -9.85 0.05)
-			(end -2.4 0.050002)
+			(end -2.4 0.050003)
 			(stroke
 				(width 0.05)
 				(type default)
@@ -10449,7 +10449,7 @@
 		)
 		(fp_line
 			(start -9.85 0.05)
-			(end -2.4 0.050002)
+			(end -2.4 0.050003)
 			(stroke
 				(width 0.05)
 				(type default)
@@ -12091,7 +12091,7 @@
 		)
 		(fp_line
 			(start -9.85 0.05)
-			(end -2.4 0.050002)
+			(end -2.4 0.050003)
 			(stroke
 				(width 0.05)
 				(type default)
