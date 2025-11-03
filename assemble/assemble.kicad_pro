@@ -465,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "assemble_left.kicad_pro",
+    "filename": "assemble.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -501,7 +501,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../jlcpcb_20250825/assemble/",
+      "plot": "../jlcpcb_20251103/assemble/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "assemble.step",
