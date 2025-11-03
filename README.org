@@ -16,6 +16,19 @@ This is a split keyboard having these features:
 
 * Bill Of Materials
 
+| Name                                   | Qty |
+|----------------------------------------+-----|
+| SeeedStudio XIAO nRF52480              |   2 |
+| AA battery holder                      |   2 |
+| M3 nut                                 |   8 |
+| M3 screw                               |   8 |
+| [[https://github.com/snize/BOB-PMW3610-SEIBOKU][SEIBOKU]]                                |   1 |
+| AE-XCL102D333CR-G                      |   2 |
+| 1N4148W                                |  64 |
+| Choc V2 Socket                         |  42 |
+| Rotally Encoder (ALPS EC12 compatible) |   1 |
+| SS-12D01G3                             |   2 |
+
 * LICENSE
 MIT
 
